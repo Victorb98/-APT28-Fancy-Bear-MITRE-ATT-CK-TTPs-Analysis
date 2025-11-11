@@ -1,8 +1,8 @@
-# 🎯 APT28 (Fancy Bear) – MITRE ATT&CK® TTPs Analysis
+# 🎯 APT28 (Fancy Bear)  MITRE ATT&CK® TTPs Analysis
 
 ## 📌 Project Title
 
-**APT28 (G0007) – MITRE ATT&CK® Technique Mapping & Analyst Walkthrough**
+**APT28 (G0007) | MITRE ATT&CK® Technique Mapping & Analyst Walkthrough**
 
 ---
 
@@ -149,9 +149,9 @@ The goal: to show that I can **interpret threat intelligence, map it to ATT&CK t
 
 ## 📚 Resources
 - [MITRE ATT&CK® Framework](https://attack.mitre.org/)  
-- [APT28 Threat Group – G0007](https://attack.mitre.org/groups/G0007/)  
+- [APT28 Threat Group | G0007](https://attack.mitre.org/groups/G0007/)  
 - [CISA Reports on APT28](https://www.cisa.gov/)  
-- [Microsoft Threat Intelligence Blog – APT28 Overview](https://www.microsoft.com/security/blog/)  
+- [Microsoft Threat Intelligence Blog | APT28 Overview](https://www.microsoft.com/security/blog/)  
 - [TryHackMe: MITRE ATT&CK Labs](https://tryhackme.com/)  
 
 ---
